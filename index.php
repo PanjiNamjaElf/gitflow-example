@@ -1,5 +1,6 @@
 <?php
 
-const FOO = 'Hello World!';
+const FOO = 'Hello';
+const BAR = 'World!';
 
-echo FOO;
+echo FOO.BAR;
